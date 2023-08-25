@@ -3,3 +3,8 @@ scikit-learn
 seaborn
 matplotlib
 plotly
+openai
+streamlit-chat
+newsapi
+requests
+newsapi-python
